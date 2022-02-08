@@ -1,0 +1,8 @@
+resource_group = "dev"
+location = "west us"
+network_interface_name = "nic"
+windows_vm_name        = "windows"
+adminusername = "azure"
+storage_1 = "sa1925"
+pubip = "static"
+environment = "dev"
